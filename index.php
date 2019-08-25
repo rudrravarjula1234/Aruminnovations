@@ -7,6 +7,7 @@
     <!-- side dots code -->
     
     <ul class="side-nav">
+        
         <li class="is-active" data-target="#intro"><span>Intro</span></li>
         <li data-target="#arum-home"><span>Arum Home Automaions</span></li>
         <li data-target="#arum-industrial"><span>Arum Industrial Automations</span></li>

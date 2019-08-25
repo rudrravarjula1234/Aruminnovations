@@ -33,16 +33,16 @@
     <div class="collapse navbar-collapse" id="collapsibleNavbar" style="justify-content:flex-end">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#">What We Do</a>
+        <a href="#" data-target="#arum-home" class="nav-link nav-page">What We Do</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Our Work</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Workshops</a>
+        <a href="workshops.php" class="nav-link">Workshops</a>
       </li>    
       <li class="nav-item">
-        <a class="nav-link" href="#">About</a>
+        <a href="" data-target="#about" class="nav-link nav-page">About</a>
       </li>    
       <li class="nav-item">
         <a class="nav-link" href="#">Contact Us</a>
